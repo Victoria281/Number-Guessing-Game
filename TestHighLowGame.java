@@ -1,8 +1,3 @@
-/*
- * Class: DIT/FT/1B/03
- * Admission Number: p2004051
- * Name: Amanda Quek Yan Ling
- */
 
 package JPRG;
 import javax.swing.JOptionPane;
